@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "e2513aec-5e62-4328-b58d-8b28659628fe",
+    "name": "Edna Cormier",
+    "phone": "947.991.4163 x2714",
+    "email": "Micaela_Fritsch@hotmail.com",
+    "job": "Lead Configuration Coordinator"
+  },
+  {
+    "id": "faa47c4e-c82e-4e7e-82fb-6c30a2b9bc61",
+    "name": "Frederick Lemke",
+    "phone": "1-854-222-7713 x0254",
+    "email": "Brittany_Conroy5@gmail.com",
+    "job": "Product Program Representative"
+  },
+  {
+    "id": "9679b45f-b048-435b-9a1b-ea860111d7b5",
+    "name": "Violet Johns",
+    "phone": "203-354-5278 x7469",
+    "email": "Elvis_Howell@hotmail.com",
+    "job": "Forward Web Technician"
+  },
+  {
+    "id": "d6241387-13a4-4691-a5b0-d9273123a745",
+    "name": "Mona Spinka",
+    "phone": "731-208-5767 x80642",
+    "email": "Johan.Krajcik@yahoo.com",
+    "job": "Regional Web Administrator"
+  }
+]
